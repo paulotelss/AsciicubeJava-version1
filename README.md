@@ -30,3 +30,7 @@ Para compilar e executar o projeto, utilize os seguintes comandos:
 
 ## Considerações Finais
 Este projeto é uma demonstração de conceitos básicos de gráficos 3D aplicados em um ambiente de texto, utilizando trigonometria para simular a rotação de objetos tridimensionais. Embora simples, ele ilustra como manipulações matemáticas podem criar uma visualização dinâmica no terminal.
+
+
+![Captura de tela 2024-09-29 190040](https://github.com/user-attachments/assets/28c6fd2f-0e47-4fe8-8611-072dbb8bb35d)
+![Captura de tela 2024-09-29 190058](https://github.com/user-attachments/assets/4bb7431f-265a-41c1-bf65-516519ceb32e)
